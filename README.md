@@ -9,3 +9,15 @@ Select + Down + B
 ```
 
 <img style="width: 75%;" src="password.png" />
+
+## Building the static site
+
+```
+rake
+```
+
+## Tests
+
+```
+ruby pokemon_test.rb
+```
